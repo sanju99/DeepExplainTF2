@@ -35,7 +35,7 @@ DeepExplain Quickstart
 ===
 ## Installation
 ```unix
-pip install -e git+https://github.com/marcoancona/DeepExplain.git#egg=deepexplain
+pip install -e git+https://github.com/sanju99/DeepExplainTF2.git#egg=deepexplain
 ```
 
 Notice that DeepExplain assumes you already have installed `Tensorflow > 1.0` and (optionally) `Keras > 2.0`.
